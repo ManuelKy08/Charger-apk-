@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://ibb.co.com/S4XHBbSL"><img src="https://i.ibb.co.com/v6xfkp9t/image.png" alt="image" border="0"></a>
+</div>
+
+
 # ⚡ SuperCharger — Charger (apk)
 
 Dashboard baterai keren buat Termux. Ada **2 versi**:
